@@ -2,11 +2,9 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=%3C+The+Algorithm+Whisperer+%2F%3E;Stochastic+by+nature%2C+deterministic+by+deadline)](https://git.io/typing-svg)
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-paturiii-181717?style=for-the-badge&logo=github)](https://github.com/paturiii)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-prithvi--paturi-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/prithvi-paturi)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-paturiii.github.io-3B82F6?style=for-the-badge&logo=safari)](https://paturiii.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-paturiii-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paturiii)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prithvi--paturi-111827?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prithvi-paturi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-paturiii.github.io-111827?style=for-the-badge&logo=safari&logoColor=white)](https://paturiii.github.io/)
   
 </div>
 
