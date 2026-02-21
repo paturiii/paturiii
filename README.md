@@ -56,14 +56,6 @@ I'm your friendly neighborhood problem-solver who talks to machines for a living
 
 ---
 
-## 💼 Experience
-
-- **Software Developer Intern** @ Clio *(Jan 2026 - Current)*
-- **Software Developer Intern** @ CIBC Capital Markets *(May 2024 - Dec 2024)*  
-- **Web Developer** @ Fresh Water Foods Inc. *(Jan 2024 - Apr 2024)*
-
----
-
 ## 🎓 Education
 
 **Bachelor of Science in Computer Science**  
