@@ -52,7 +52,7 @@ I'm your friendly neighborhood problem-solver who talks to machines for a living
 |---------|-------------|------|
 | 🎯 [**NBA Player Archetype**](https://github.com/paturiii/nba-player-archetype) | Scientifically confirmed my favorite player is an "All-Time Bench Warmer" | Python, Flask, Scikit-learn |
 | 💸 [**TrackME**](https://github.com/prithvipat/TrackME) | Gives financial advice better than your uncle at Thanksgiving! | Python, Django, K-Means |
-| 🧮 [**Connect-4 AI**](https://github.com/prithvipat/Connect-4-AI) | Built an agent to feel smart. Feel like the kid who eats glue. | Python, NumPy, Minimax |
+| 🧮 [**SmartForm**]([https://github.com/prithvipat/Connect-4-AI](https://github.com/paturiii/AI-fitness-form-detection-app)) | Built an app to help me get stronger, realised I had 64 errors with form| Python, React Native, Supabase |
 
 ---
 
