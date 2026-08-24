@@ -2,17 +2,10 @@
 
 <div align="center">
   
-[![GitHub](https://img.shields.io/badge/GitHub-paturiii-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paturiii)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prithvi--paturi-111827?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prithvi-paturi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-paturiii.github.io-111827?style=for-the-badge&logo=safari&logoColor=white)](https://paturiii.github.io/)
   
 </div>
-
----
-
-I'm your friendly neighborhood problem-solver who talks to machines for a living. I speak fluent **Python** and broken English to my rubber duck 🦆
-
----
 
 ## 🧠 My Arsenal
 
