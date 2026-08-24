@@ -55,12 +55,3 @@
 Wilfrid Laurier University • 2022 - Current  
 *Big Data Systems Concentration • Minor in Math*
 
----
-
-<div align="center">
-  
-  > *"There are only 10 types of people in the world: those who understand binary and those who don't"*
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=paturiii&color=3b82f6&style=flat-square)
-  
-</div>
