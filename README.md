@@ -39,16 +39,6 @@
 ![Databricks](https://img.shields.io/badge/Databricks-E25A1C?style=flat-square&logo=databricks&logoColor=white)
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🎯 [**NBA Player Archetype**](https://github.com/paturiii/nba-player-archetype) | Scientifically confirmed my favorite player is an "All-Time Bench Warmer" | Python, Flask, Scikit-learn |
-| 💸 [**TrackME**](https://github.com/prithvipat/TrackME) | Gives financial advice better than your uncle at Thanksgiving! | Python, Django, K-Means |
-| 🧮 [**SmartForm**](https://github.com/paturiii/AI-fitness-form-detection-app) | Built an app to help me get stronger, realised I had 64 errors with form| Python, React Native, Supabase |
-
----
-
 ## 🎓 Education
 
 **Bachelor of Science in Computer Science**  
